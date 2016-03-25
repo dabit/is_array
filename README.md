@@ -1,6 +1,6 @@
 # is_array?
 
-This gem will help you determine if an object is an array?
+This gem will help you determine if an object is an array.
 
 ## Installation
 
